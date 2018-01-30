@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>About Nathan - Make Your Own Website Project</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1 class="Title" style="width: 80%;"><b>Personal Info</b></h1>
+    <div class="Pics" style="display:flex">
+      <div class="Guiness" style="width:20%"><img src="St_James_Gate.png" alt="Guiness"></div>
+      <div class="Falconry" style="width:19.5%"><img src="Falconry.png" alt="Falconry"></div>
+      <div class="Poison" style="width:22%"><img src="PoisonGarden.png" alt="Poinson"></div>
+      <div class="Sign" style="width:20%"><img src="FunnySign.png" alt="Sign"></div>
+    </div>
+    <div class="Categories" style="display:flex">
+      <h2 class="BooksSub" style="width:30%"><b><u>Favorite Books</u></b></h2>
+      <h3 class="MoviesSub" style="width:30%"><b><u>Favorite Films</u></b></h3>
+      <h4 class="SongsSub" style="width:30%"><b><u>Favorite Songs</u></b></h4>
+    </div>
+    <div class="BodyInfo" style="display:flex">
+      <div class="BooksInfo" style="width:30%">
+        <ul>
+          <li>Lord of the Rings Trilogy - <em>Tolkien</em></li>
+          <li>Freakonomics - <em>Levitt/Dubner</em></li>
+          <li>Outliers - <em>Gladwell</em></li>
+          <li>No Exit - <em>Sartre</em></li>
+          <li>Ready Player One - <em>Cline</em></li>
+        </ul>
+      </div>
+      <div class="MovieInfo" style="width:30%">
+        <ul>
+          <li>Ocean's Eleven (1960)</li>
+          <li>Flatliners (1990)</li>
+          <li>The Manchurian Candidate (1962)</li>
+          <li>John Wick (2014)</li>
+          <li>Star Wars (Original Trilogy 1977-1983)</li>
+        </ul>
+      </div>
+      <div class="SongsInfo" style="Width:30%">
+        <ul>
+          <li><a href="https://youtu.be/AhiIZKaRixs">Tired</a> <em>by Stone Sour</em></li>
+          <li><a href="https://youtu.be/Vrr3lRLjZ1Y">Cold</a> <em>by Crossfade</em></li>
+          <li><a href="https://youtu.be/aXhjp85UNJI">Still Counting</a> <em>by Volbeat</em></li>
+          <li><a href="https://youtu.be/o_l4Ab5FRwM">Wrong Side of Heaven</a> <em>by Five Finger Death Punch</em></li>
+          <li><a href="https://youtu.be/hPC2Fp7IT7o">Broken</a> <em>by Seether featuring Amy Lee</em></li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
